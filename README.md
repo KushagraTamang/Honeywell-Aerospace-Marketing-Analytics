@@ -1,31 +1,32 @@
-## Evaluating Cognitive Analytics in Aircraft Maintenance: A Case Study on Honeywell Aerospace
+# Evaluating Cognitive Analytics in Aircraft Maintenance: A Case Study on Honeywell Aerospace
 
 ## Overview
 
-This project is a case-study-based analysis of Honeywell Aerospace, focused on understanding how Cognitive Analytics, Artificial Intelligence (AI), and Predictive Maintenance can improve aircraft maintenance operations and customer experience.
+This project is a case-study-based analysis of Honeywell Aerospace that explores how Cognitive Analytics, Artificial Intelligence (AI), and Predictive Maintenance can improve aircraft maintenance operations, reduce downtime, and enhance customer satisfaction.
 
-The objective of this study was to analyze operational challenges such as aircraft downtime, delayed fault diagnosis, fragmented maintenance systems, and inefficient troubleshooting processes from a Marketing Analytics perspective.
+The study examines operational and customer-related challenges, including delayed fault diagnosis, fragmented maintenance systems, inefficient troubleshooting processes, and aircraft downtime. Using Marketing Analytics concepts, the project demonstrates how data-driven decision-making can help organizations improve operational efficiency and customer retention.
 
-## Project Approach
+## Tools Used
 
-Since real operational and customer data from Honeywell Aerospace is not publicly available, a synthetic dataset was created to simulate real-world business scenarios. This dataset was used to perform various marketing and customer analytics techniques and demonstrate how data-driven decision-making can support maintenance efficiency and customer retention.
+* **Microsoft Excel** – Data preparation, KPI calculations, and analytical modeling.
+* **Power BI** – Interactive dashboards, data visualization, and business insights generation.
 
 ## Analytics Performed
 
 * Customer Churn Analysis
 * Customer Lifetime Value (CLV) Analysis
-* RFM (Recency, Frequency, Monetary) Analysis
+* RFM Analysis (Recency, Frequency, Monetary)
 * Market Basket Analysis
 * Predictive Analytics Framework
 * Customer Experience KPI Dashboard
 
 ## Key Insights
 
-* Aircraft downtime and delayed fault diagnosis are major drivers of customer dissatisfaction.
-* Predictive maintenance can reduce operational delays and maintenance costs.
-* High-value airline customers contribute significant long-term business value.
-* AI-powered maintenance systems can improve troubleshooting accuracy and service reliability.
+* Aircraft downtime and delayed fault diagnosis significantly impact customer satisfaction.
+* Predictive maintenance can reduce maintenance costs and operational disruptions.
+* High-value airline customers contribute substantial long-term revenue and require strong retention strategies.
+* AI-driven maintenance systems can improve troubleshooting accuracy and service reliability.
 
 ## Disclaimer
 
-This project is developed for academic and learning purposes only. Honeywell Aerospace was used as a case study, and all datasets, visualizations, assumptions, and analytical outputs are based on synthesized data created to demonstrate marketing analytics concepts and business problem-solving techniques.
+This project was developed for academic and learning purposes. Honeywell Aerospace was used as a business case study, and all datasets, visualizations, assumptions, and analytical results are based on synthesized data created to simulate real-world business scenarios. No proprietary or confidential Honeywell Aerospace data was used in this project.
